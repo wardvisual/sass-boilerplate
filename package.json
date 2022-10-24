@@ -1,0 +1,8 @@
+{
+    "name": "sass-utilities",
+    "version": "1.0.0",
+    "description": "custom sass utilities",
+    "main": "src/index.html",
+    "author": "Edward Fernandez",
+    "license": "ISC"
+}
