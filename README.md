@@ -1,3 +1,3 @@
-# SASS UTILITIES
+# SASS BOILERPLATE
 
-Custom SASS Utilities
+SASS boilerplate utilizing the 7-1 architecture pattern
