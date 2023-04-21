@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">SASS BOILERPLATE</h3>
+  <h3 align="center">Sass Boilerplate</h3>
 
   <p align="center">
     SASS boilerplate utilizing the 7-1 architecture pattern
